@@ -4,6 +4,11 @@ These are some cheats that have been identified as scams, so just stay away from
 
 #TODO Section
 The cheats listed here should be avoid. However we need reasons on them.
+## Lethality
+
+Obviously pasted yet the owner and dev are in denial of this, Rarely updated with useful features and has vac detection issues, 
+Owner lies about active members and other info to do with the cheat.
+
 ## DarkAim
 
 ## InsanityCheats
@@ -26,7 +31,7 @@ Fake-Reviews, Fake-Infos
 
 ## 5dollarcheats
 
-Fake-Reviews
+Fake-Reviews, Really bad even for the money it costs for a sub.
 
 ## Redeye Cheats
 
